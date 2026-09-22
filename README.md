@@ -1,7 +1,7 @@
 Thanks to Kayte and Thorny for these creations. Here are pictures for the visually inclined and people with low/reduced vision:
 
 Here's an image of the Windower addon being used:
-[](image.png?raw=true)
+[](image.png)
 
 Here's an image of the Ashita addon:
-[](image2.png?raw=true)
+[](image2.png)
